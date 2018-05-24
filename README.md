@@ -1,5 +1,7 @@
 # Activation Functions
 
+Activation functions are a central part of every node in an artificial neural network. Since I came accross multiple variants and got confused sometimes, I put together this brief overview.
+
 | Function | Plot | Equation | Derivative |
 |----|---|---|---|
 | Binary Step | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/binary_step.png "Binary Step") | ![alt text](http://quicklatex.com/cache3/aa/ql_4bda80d24d8dee86cc04bddb21c046aa_l3.png "Binary Step Equation") | ![alt text](http://quicklatex.com/cache3/0a/ql_08ff77c1b6dc2a4b5acaaac8d4617b0a_l3.png "Binary Step Derivative") |
