@@ -5,7 +5,7 @@ Activation functions are a central part of every node in an artificial neural ne
 The repository includes a [notebook](https://github.com/siebenrock/activation-functions/blob/master/activation_functions.ipynb) with all functions implemented in Python and plots. Parametric ReLU is similar to Leaky ReLU but the coefficient of leakage is learned as a parameter of the neural network.
 
 | Function | Plot | Equation | Derivative | Derivative plot
-|----|:---:|:---:|:---:|
+|----|:---:|:---:|:---:|:---:|
 | Binary Step | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/binary_step.png "Binary Step") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/binary_step.png "Binary Step Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/binary_step_d.png "Binary Step Derivative") |
 | Piecewise Linear | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/piecewise_linear.png "Piecewise Linear") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/piecewise_linear.png "Piecewise Linear Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/piecewise_linear_d.png "Piecewise Linear Derivative") |
 | Bipolar | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/bipolar.png "Bipolar") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/bipolar.png "Bipolar Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/bipolar_d.png "Bipolar Derivative") |
